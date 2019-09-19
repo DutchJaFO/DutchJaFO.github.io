@@ -1,0 +1,122 @@
+[
+  {
+    "StartValue": 1,
+    "EndValue": 1,
+    "Prefix": "Bad",
+    "Suffix": "Arg"
+  },
+  {
+    "StartValue": 2,
+    "EndValue": 2,
+    "Prefix": "Daka",
+    "Suffix": "Bad"
+  },
+  {
+    "StartValue": 3,
+    "EndValue": 3,
+    "Prefix": "Dreg",
+    "Suffix": "Bag"
+  },
+  {
+    "StartValue": 4,
+    "EndValue": 4,
+    "Prefix": "Duff",
+    "Suffix": "Bog"
+  },
+  {
+    "StartValue": 5,
+    "EndValue": 5,
+    "Prefix": "Dur",
+    "Suffix": "Dreg"
+  },
+  {
+    "StartValue": 6,
+    "EndValue": 6,
+    "Prefix": "Gob",
+    "Suffix": "Fang"
+  },
+  {
+    "StartValue": 7,
+    "EndValue": 7,
+    "Prefix": "Gor",
+    "Suffix": "Fug"
+  },
+  {
+    "StartValue": 8,
+    "EndValue": 8,
+    "Prefix": "Grim",
+    "Suffix": "Gob"
+  },
+  {
+    "StartValue": 9,
+    "EndValue": 9,
+    "Prefix": "Grot",
+    "Suffix": "Gog"
+  },
+  {
+    "StartValue": 10,
+    "EndValue": 10,
+    "Prefix": "Grub",
+    "Suffix": "Gor"
+  },
+  {
+    "StartValue": 11,
+    "EndValue": 11,
+    "Prefix": "Gut",
+    "Suffix": "Grim"
+  },
+  {
+    "StartValue": 12,
+    "EndValue": 12,
+    "Prefix": "Mag",
+    "Suffix": "Grod"
+  },
+  {
+    "StartValue": 13,
+    "EndValue": 13,
+    "Prefix": "Mor",
+    "Suffix": "Grot"
+  },
+  {
+    "StartValue": 14,
+    "EndValue": 14,
+    "Prefix": "Mek",
+    "Suffix": "Grub"
+  },
+  {
+    "StartValue": 15,
+    "EndValue": 15,
+    "Prefix": "Mug",
+    "Suffix": "Gul"
+  },
+  {
+    "StartValue": 16,
+    "EndValue": 16,
+    "Prefix": "Naff",
+    "Suffix": "Gut"
+  },
+  {
+    "StartValue": 17,
+    "EndValue": 17,
+    "Prefix": "Nar",
+    "Suffix": "Kop"
+  },
+  {
+    "StartValue": 18,
+    "EndValue": 18,
+    "Prefix": "Naz",
+    "Suffix": "Lug"
+  },
+  {
+    "StartValue": 19,
+    "EndValue": 19,
+    "Prefix": "*",
+    "Suffix": "*"
+  },
+  {
+    "StartValue": 20,
+    "EndValue": 20,
+    "Prefix": "*",
+    "Suffix": "*"
+  }
+]

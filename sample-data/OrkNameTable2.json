@@ -1,0 +1,123 @@
+[
+  {
+    "StartValue": 1,
+    "EndValue": 1,
+    "Prefix": "Nob",
+    "Suffix": "Nob"
+  },
+  {
+    "StartValue": 2,
+    "EndValue": 2,
+    "Prefix": "Og",
+    "Suffix": "Og"
+  },
+  {
+    "StartValue": 3,
+    "EndValue": 3,
+    "Prefix": "Rot",
+    "Suffix": "Ork"
+  },
+  {
+    "StartValue": 4,
+    "EndValue": 4,
+    "Prefix": "Shak",
+    "Suffix": "Rot"
+  },
+  {
+    "StartValue": 5,
+    "EndValue": 5,
+    "Prefix": "Skab",
+    "Suffix": "Runt"
+  },
+  {
+    "StartValue": 6,
+    "EndValue": 6,
+    "Prefix": "Skar",
+    "Suffix": "Shak"
+  },
+  {
+    "StartValue": 7,
+    "EndValue": 7,
+    "Prefix": "Skum",
+    "Suffix": "Slag"
+  },
+  {
+    "StartValue": 8,
+    "EndValue": 8,
+    "Prefix": "Snaga",
+    "Suffix": "Skab"
+  },
+  {
+    "StartValue": 9,
+    "EndValue": 9,
+    "Prefix": "Snik",
+    "Suffix": "Snik"
+  },
+  {
+    "StartValue": 10,
+    "EndValue": 10,
+    "Prefix": "Snot",
+    "Suffix": "Snaga"
+  },
+  {
+    "StartValue": 11,
+    "EndValue": 11,
+    "Prefix": "Ug",
+    "Suffix": "Sog"
+  },
+  {
+    "StartValue": 12,
+    "EndValue": 12,
+    "Prefix": "Urty",
+    "Suffix": "Stuf"
+  },
+  {
+    "StartValue": 13,
+    "EndValue": 13,
+    "Prefix": "Uz",
+    "Suffix": "Teef"
+  },
+  {
+    "StartValue": 14,
+    "EndValue": 14,
+    "Prefix": "Waa",
+    "Suffix": "Thug"
+  },
+  {
+    "StartValue": 15,
+    "EndValue": 15,
+    "Prefix": "Waz",
+    "Suffix": "Urty"
+  },
+  {
+    "StartValue": 16,
+    "EndValue": 16,
+    "Prefix": "Wort",
+    "Suffix": "Uz"
+  },
+  {
+    "StartValue": 17,
+    "EndValue": 17,
+    "Prefix": "Zod",
+    "Suffix": "Wort"
+  },
+  {
+    "StartValue": 18,
+    "EndValue": 18,
+    "Prefix": "Zog",
+    "Suffix": "Zod"
+  },
+  {
+    "StartValue": 19,
+    "EndValue": 19,
+    "Prefix": "*",
+    "Suffix": "*"
+  },
+  {
+    "StartValue": 20,
+    "EndValue": 20,
+    "Prefix": "*",
+    "Suffix": "*"
+  }
+]
+
